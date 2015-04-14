@@ -13,6 +13,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("HELLO HAPPY SALES PEOPLE!");
 		System.out.println("THIS APP SHOWS SALES DATA");
+		System.out.println("Test 1");
 		
 	}
 
