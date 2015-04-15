@@ -5,7 +5,9 @@ public class SalesData {
 
 	public void display() {
 		// TODO Auto-generated method stub
-		System.out.println("TODO: implement data displa");
+		for(int i=0; i < data.length; i++) {
+			System.out.println("");
+		}
 		
 	}
 
