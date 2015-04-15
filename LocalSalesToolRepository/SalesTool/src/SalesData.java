@@ -5,7 +5,10 @@ public class SalesData {
 
 	public void display() {
 		// TODO Auto-generated method stub
-		System.out.println("TODO: implement data displa");
+		System.out.println("Data: ");
+		for(int i=0; i < data.length; i++) {
+			System.out.println("Next value: " + data[i]);
+		}
 		
 	}
 
